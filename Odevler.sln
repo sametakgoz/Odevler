@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odevler", "Odevler\Odevler.csproj", "{9CA70E85-989B-4EA1-8762-571417A50C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day4", "day4\day4.csproj", "{454FB649-F294-4128-B132-0E1A91050B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA70E85-989B-4EA1-8762-571417A50C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA70E85-989B-4EA1-8762-571417A50C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA70E85-989B-4EA1-8762-571417A50C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA70E85-989B-4EA1-8762-571417A50C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454FB649-F294-4128-B132-0E1A91050B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454FB649-F294-4128-B132-0E1A91050B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454FB649-F294-4128-B132-0E1A91050B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454FB649-F294-4128-B132-0E1A91050B82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65966EAA-C45F-47EB-B8CE-A24450BC7658}
+	EndGlobalSection
+EndGlobal
